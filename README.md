@@ -1,0 +1,2 @@
+# mailGenerator
+Generating mails
